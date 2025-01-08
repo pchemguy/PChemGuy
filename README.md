@@ -8,7 +8,7 @@ Outside of my professional and technical pursuits, I enjoy playing online blitz 
 [ChatGPTExploratoryPrompting]: https://github.com/pchemguy/ChatGPTExploratoryPrompting/
 [SQLiteMP]: https://github.com/pchemguy/SQLiteMP/blob/main/README.md
 [SQLite SQL Tutorial]: https://pchemguy.github.io/SQLite-SQL-Tutorial/
-[SQLite-ICU]: https://pchemguy.github.io/SQLite-ICU-MinGW/
+[SQLite ICU]: https://pchemguy.github.io/SQLite-ICU-MinGW/
 [MSYS2]: https://msys2.org
 [MSBuild]: https://learn.microsoft.com/visualstudio/msbuild/
 [SQLiteC for VBA]: https://pchemguy.github.io/SQLiteC-for-VBA/
