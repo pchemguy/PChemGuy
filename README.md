@@ -1,3 +1,5 @@
+# PChemGuy
+
 I am a physical chemist and R&D engineer. Here I develop personal projects around SQLite, structured data, Python/C integration, technical writing, and AI-assisted software development. Most begin with a practical problem and evolve into reusable code, proof-of-concept models, or detailed implementation notes.
 
 **Areas of Interest**
